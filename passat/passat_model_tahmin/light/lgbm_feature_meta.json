@@ -1,0 +1,47 @@
+{
+  "feature_names": [
+    "_year",
+    "_km",
+    "_age",
+    "_km_per_year",
+    "_km_bin_20k",
+    "_boyali_count",
+    "_degisen_count",
+    "_crit_boyali",
+    "_crit_degisen",
+    "_cos_boyali",
+    "_cos_degisen",
+    "_baseline50",
+    "Seri",
+    "Model",
+    "Yakıt Tipi",
+    "Vites",
+    "Kasa Tipi",
+    "Çekiş",
+    "Renk"
+  ],
+  "categorical_features": [
+    "Seri",
+    "Model",
+    "Yakıt Tipi",
+    "Vites",
+    "Kasa Tipi",
+    "Çekiş",
+    "Renk"
+  ],
+  "base_feature": "_baseline50",
+  "col_model": "Model",
+  "parts_map": {
+    "Arka Tampon": "Arka Tampon",
+    "Bagaj Kapağı": "Bagaj kapağı",
+    "Motor Kaputu": "Motor Kaputu",
+    "Sağ Arka Kapı": "Sağ Arka Kapı",
+    "Sağ Ön Kapı": "Sağ Ön Kapı",
+    "Sağ Ön Çamurluk": "Sağ Ön Çamurluk",
+    "Sol Arka Kapı": "Sol Arka Kapı",
+    "Sol Ön Kapı": "Sol Ön Kapı",
+    "Sol Ön Çamurluk": "Sol Ön Çamurluk",
+    "Tavan": "Tavan",
+    "Ön Tampon": "Ön Tampon"
+  }
+}
