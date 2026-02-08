@@ -184,3 +184,4 @@ Sadece ortalamaya da kalmaz
 Amaç:
 
 Daha stabil, daha açıklanabilir ve gerçek piyasa davranışına yakın fiyat tahmini üretmek.
+örnek çıktılar için predictions2.xlsx dosyasına bakınız 
